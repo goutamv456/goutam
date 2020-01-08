@@ -19,3 +19,4 @@ return (1);
 /* function calling itself */return (n * fact(n - 1));
 /*n*fact(n-1) is a recursive expression */    }
 }
+/*
